@@ -1,0 +1,3 @@
+function mediaNotas() {
+    return null;
+}

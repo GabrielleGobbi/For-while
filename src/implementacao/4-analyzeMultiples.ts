@@ -1,0 +1,3 @@
+function analiseMultiplos() {
+    return null;
+}

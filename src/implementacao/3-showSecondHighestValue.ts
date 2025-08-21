@@ -1,0 +1,3 @@
+function mostrarSegundoMaiorValor() {
+    return null;
+}
